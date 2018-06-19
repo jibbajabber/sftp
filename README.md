@@ -1,2 +1,2 @@
 # sftp
-python sftp helper using paramiko
+python 2 sftp helper using paramiko
